@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.jobsearch.app-main-41:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-mdpi_src_assets_upload.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-mdpi/src_assets_upload.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.jobsearch.app-main-41:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-mdpi_src_assets_person.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-mdpi/src_assets_person.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.jobsearch.app-main-41:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-mdpi_src_assets_logout.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-mdpi/src_assets_logout.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.jobsearch.app-main-41:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.jobsearch.app-main-41:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-mdpi_src_assets_front.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-mdpi/src_assets_front.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-mdpi_src_assets_user.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-mdpi/src_assets_user.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-mdpi_src_assets_edit.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-mdpi/src_assets_edit.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.jobsearch.app-main-41:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.jobsearch.app-main-41:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-mdpi_src_assets_reg.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-mdpi/src_assets_reg.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-mdpi_src_assets_emppage.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-mdpi/src_assets_emppage.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-mdpi_src_assets_heart.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-mdpi/src_assets_heart.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.jobsearch.app-main-41:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-mdpi_src_assets_filter.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-mdpi/src_assets_filter.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.jobsearch.app-main-41:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.jobsearch.app-main-41:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-mdpi_src_assets_jobdetail.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-mdpi/src_assets_jobdetail.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.jobsearch.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-mdpi_src_assets_delete.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-mdpi/src_assets_delete.png"
+    },
+    {
+        "merged": "com.jobsearch.app-merged_res-39:/drawable-mdpi_src_assets_close.png.flat",
+        "source": "com.jobsearch.app-main-41:/drawable-mdpi/src_assets_close.png"
+    }
+]
